@@ -19,7 +19,10 @@ I am a highly capable learner, Trying to be full stack developer to have experie
 
 # 📊 GitHub Stats:
 
+<div align="center">
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lucifer19807&theme=nightowl&hide_border=false)<br/>
+</div>
 
 
 
