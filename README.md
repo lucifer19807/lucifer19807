@@ -14,11 +14,8 @@ I am a highly capable learner, Trying to be full stack developer to have experie
 ## 📊 GitHub Stats
 
 <div align="center">
-  ![](https://nirzak-streak-stats.vercel.app/?user=lucifer19807&theme=dark&hide_border=true)<br/>
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucifer19807&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
- 
+  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=lucifer19807&theme=dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucifer19807&theme=radical"/>
 </div>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucifer19807&layout=compact&theme=radical"/>
