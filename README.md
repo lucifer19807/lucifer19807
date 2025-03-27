@@ -15,7 +15,7 @@ I am a highly capable learner, Trying to be full stack developer to have experie
 
 <div align="center">
   <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=lucifer19807&theme=dark&hide_border=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucifer19807&theme=radical"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucifer19807&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=lucifer19807&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)"/>
 </div>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucifer19807&layout=compact&theme=radical"/>
