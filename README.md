@@ -23,5 +23,5 @@ I am a highly capable learner, Trying to be full stack developer to have experie
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=lucifer19807&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=lucifer19807&icon=5&color=6)](https://visitcount.itsvg.in)
+
 </div>
